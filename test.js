@@ -29,4 +29,3 @@ console.log('anagram', str.anagram());
 console.log('reverse', str.reverse());
 console.log('alphabeticalOrder', str.alphabeticalOrder());
 console.log('removeDiacritics', str.removeDiacritics());
-console.log('removeDiacritics', str.removeDiacritics());
