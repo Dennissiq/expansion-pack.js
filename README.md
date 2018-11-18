@@ -30,7 +30,7 @@ console.log('unique', arr.unique());
 console.log('max', arr.max());
 console.log('min', arr.min());
 console.log('average', arr.avg());
-console.log('clear', arr.clear());
+console.log('clear', arr.clear()); 
 
 // number functions
 console.log((1234565789).formatMoney());
